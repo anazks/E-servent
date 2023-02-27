@@ -1,0 +1,28 @@
+.Nav{
+    width: 90%;
+    margin: auto;
+    height: 80px;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 30px;
+    margin-top: 5%;
+    display:flex;
+    border: 2px solid  rgb(237, 114, 20);
+}
+.logoDiv{
+    width: 50%;
+    height: auto;
+}
+.title{
+    width: 50%;
+    height: auto;
+}
+.navImg{
+    height: 90%;
+    width: 100px;   
+    margin-left: 10%;
+}
+.title h3{
+    text-align: center;
+    color: rgb(237, 114, 20);
+}
